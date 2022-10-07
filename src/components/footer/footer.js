@@ -5,11 +5,11 @@ export default class Footer extends Component {
 
   render() {
     return(
-      <header className="container">
+      <footer className="footer">
         <p>
           Hello! I'm a footer.
         </p>
-      </header>
+      </footer>
     )
   }
 }
